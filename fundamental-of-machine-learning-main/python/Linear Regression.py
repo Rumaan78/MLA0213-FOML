@@ -1,4 +1,4 @@
-
+pip install scikit-learn
 from sklearn.datasets import make_classification
 from matplotlib import pyplot as plt
 from sklearn.linear_model import LogisticRegression
